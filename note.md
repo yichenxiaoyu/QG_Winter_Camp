@@ -8,7 +8,7 @@
 二级标题
 ---
 
-#段落  
+#段落  <a name = "第二种"></a>  
 换行  要用两个空格来实现换行   
 
 两行之间加个空行实现换行
@@ -86,7 +86,7 @@ eg：`printf`
 
 <img src="https://i0.hdslb.com/bfs/sycp/creative_img/202301/66589704d2dd337ea268149612abf7f9.jpg@336w_190h_!web-video-ad-cover.webp" style =  "width: 100px height = 100px"/>
 
-##本地图片<a name = "第二种"></a>  
+##本地图片
 ![m]/
 
 #链接  
